@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - Facebook: [TruongHongAnh](https://www.facebook.com/truonghonganh04/?locale=vi_VN)
-- Linkedln: [TruongHongAnh�
+- Linkedln: [TruongHongAnh](https://www.linkedin.com/in/tr%C6%B0%C6%A1ng-anh-07b4572a5/)
 
