@@ -1,5 +1,5 @@
-## Hi there 👋
-
+##Hi, I'm Anh Truong
+An AI major with a focus on Computer Vision. I'm especially interested in Deep Learning, NLP, and building real-world AI systems.
 <!--
 **AnhAnh22062004/AnhAnh22062004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
